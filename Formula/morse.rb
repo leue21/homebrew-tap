@@ -4,8 +4,8 @@ class Morse < Formula
   # url and sha256 name the last published release, but they are not edited by
   # hand: .github/workflows/release.yml rewrites both from the tag and copies
   # the result to leue21/homebrew-tap, which is the formula brew installs.
-  url "https://github.com/leue21/morse/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "3756627b0bb01502d8e574a51caaf6c9268ff6ea6913891b9bb84b8a937b1613"
+  url "https://github.com/leue21/morse/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "7f39dca7fc83c75e73be8e056965ae800a2d65809bffcaaf38d1c3325846da0f"
   license "MIT"
   head "https://github.com/leue21/morse.git", branch: "main"
 
